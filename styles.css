@@ -5,13 +5,11 @@ header {
 body {
 	background-color: #D3D3D3;
 	height: 100%;
-	width: 100%
-	font-family: Verdana, sans-serif;
+	width: 100%;
 }
 
 .nav {
     margin: auto;
-	padding: auto;
 	width: 1200px;
 }
 
@@ -29,12 +27,8 @@ a {
 	background-size: cover;
 	color: #ffffff;
 	margin-top: 10px;
-	height: 300px;
-	width: 1000px;
-}
-
-.my-class-1 {
-	max-width: 80%;
+	max-height: 700px;
+	max-width: 900px;
 }
 
 .my-container-1 {
